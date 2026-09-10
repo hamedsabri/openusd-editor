@@ -30,8 +30,6 @@ Building an editor and the tooling around it is genuinely hard, mostly because t
 
 The project is primarily written in C++ and uses OpenGL for rendering. I chose OpenGL mostly because it's the graphics API I'm most familiar with.
 
-The project has been heavily influenced by several open-source projects and experiments, including Usdview, OpenDCC, Hydra Viewport Toolbox, UsdTweak, and ImGuiHydraEditor.
-
 The project is very much a work in progress. I work on it in my spare time, usually for only a few hours during the week and on weekends, so progress can be slow at times. For now, I’m interested in seeing how the community reacts to the project and where it might go from here.
 
 ## Can I Contribute?
