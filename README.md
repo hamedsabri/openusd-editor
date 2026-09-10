@@ -36,4 +36,4 @@ The project is very much a work in progress. I work on it in my spare time, usua
 Not at the moment. I haven’t decided yet whether OpenUsdEditor stays closed source or becomes open source, perhaps in the future, if there is enough interest and desire from the community. For now, the most useful thing you can do is try the beta releases and tell me what works and what doesn’t.
 
 ## Download
-Checkout available package binary / installer here: [https://github.com/hamedsabri/openusd-editor/releases](releases)
+Checkout available package binary / installer here: [https://github.com/hamedsabri/openusd-editor/releases](Releases)
