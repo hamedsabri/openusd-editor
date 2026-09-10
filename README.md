@@ -1,7 +1,8 @@
 # OpenUSD Editor
 A light-weight editor powered by Hydra 2 for editing, navigation, and introspection of OpenUSD stages.
 
-<img width="1886" height="1030" alt="goblin-scavenger" src="https://github.com/user-attachments/assets/a95be594-4b6e-4b0c-8b21-4bd8778c21a7" />
+<img width="2131" height="1030" alt="Screenshot 2026-09-09 183227" src="https://github.com/user-attachments/assets/91bc8691-3b3b-419e-9d87-9effe8c98891" />
+Asset Credit: Sir Archibald - an openUSD toy!
 
 ## Everything you need to author, inspect, and export USD Stages
 
