@@ -33,7 +33,7 @@ The project is primarily written in C++ and uses OpenGL for rendering. I chose O
 The project is very much a work in progress. I work on it in my spare time, usually for only a few hours during the week and on weekends, so progress can be slow at times. For now, I’m interested in seeing how the community reacts to the project and where it might go from here.
 
 ## Can I Contribute?
-Not at the moment. I haven’t decided yet whether OpenUsdEditor stays closed source or becomes open source, perhaps in the future, if there is enough interest and desire from the community. For now, the most useful thing you can do is try the beta releases and tell me what works and what doesn’t.
+Not at the moment. I haven’t decided yet whether OpenUsdEditor stays closed source or becomes open source, perhaps in the future, if there is enough interest and desire from the community. For now, the most useful thing you can do is try the beta releases and tell me what works and what doesn’t by creating a ticket here: https://github.com/hamedsabri/openusd-editor/issues
 
 ## Download
 Checkout available package binary / installer here: https://github.com/hamedsabri/openusd-editor/releases
