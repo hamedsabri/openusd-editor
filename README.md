@@ -10,7 +10,7 @@ Asset Credit: Sir Archibald - an openUSD toy!
 - Multiple Viewports
 - Multiple Selection
 - Render Delegates Support
-- Authoring TRS
+- TRS Manipulators
 - Property Editor
 - Undo / Redo
 - Python Scripting
@@ -21,12 +21,11 @@ Asset Credit: Sir Archibald - an openUSD toy!
 - More to come...
 
 ## About
-
 OpenUsdEditor is a personal project that I started in early 2024, primarily as a way to learn and explore the Hydra architecture. It is a continuation of an earlier version of the project called TinkerUsd, with a more refined software architecture and a better focus on building a general-purpose editor.
 
 OpenUsdEditor is intended to be a fast lightweight native USD editor without the unnecessary bloat that often comes with larger DCC applications.
 
-Building an editor and the tooling around it is genuinely hard, mostly because these tools end up being extremely specific to individual needs, pipelines, and requirements. So I have tried to keep OpenUsdEditor as simple and as unopinionated as possible.
+In general, building an editor and the tooling around it is genuinely hard, mostly because these tools end up being extremely specific to individual needs, pipelines, and requirements. So I have tried to keep OpenUsdEditor as simple and as unopinionated as possible.
 
 The project is primarily written in C++ and uses OpenGL for rendering. I chose OpenGL mostly because it's the graphics API I'm most familiar with.
 
