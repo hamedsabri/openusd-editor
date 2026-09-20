@@ -1,7 +1,7 @@
 # OpenUSD Editor
 A light-weight editor powered by Hydra 2 for editing, navigation, and introspection of OpenUSD stages. Visit [openusd-editor](https://openusd-editor.com) to learn more.
 
-<img width="2131" height="1030" alt="Screenshot 2026-09-09 183227" src="https://github.com/user-attachments/assets/91bc8691-3b3b-419e-9d87-9effe8c98891" />
+<img width="1707" height="985" alt="Screenshot 2026-09-19 202021" src="https://github.com/user-attachments/assets/083612fd-f12d-471f-ac56-1ab9220ad6c2" />
 
 Asset Credit: 
 [Sir Archibald](https://github.com/ilasolomon/SirArchibald)
