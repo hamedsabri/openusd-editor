@@ -20,6 +20,8 @@ Asset Credit:
 - Outliner
 - Stage Statistics
 - Timeline & Animation
+- Content Browser
+- Variant Manager
 - More to come...
 
 ## About
